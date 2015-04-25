@@ -17,7 +17,7 @@ Para gestionar las tareas de un proyecto anterior, el equipo de IE, utilizó con
 
 Desafíos
 ---------
-Mostraron este sofware al equipo de sistemas de información (SI en adelante) a cargo del desarrollo de las aplicaciones de gestión de la empresa del cuál formo parte y solicitaron generar una solución similar para poder gestionar las tareas de los proyectos en curso.
+Mostraron este sofware al equipo de sistemas de información (SI en adelante) a cargo del desarrollo de las aplicaciones de gestión de la empresa, del cuál formo parte, y solicitaron generar una solución similar para poder gestionar las tareas de los proyectos en curso.
 
 
 Solución
